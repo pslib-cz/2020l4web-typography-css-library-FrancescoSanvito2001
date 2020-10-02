@@ -3,7 +3,7 @@
 ## Demo site
     
 ## Dependecies
-    I don't have the slightest idea of what the goddamn fuck I should write down here...   :)
+I don't have the slightest idea of what the goddamn fuck I should write down here...   :)
 ## Implementation
 
 ```
@@ -14,7 +14,7 @@
 For images use:
     
 ```
-<div>
+<div class="img">
     <img src="">
 </div>
 ```

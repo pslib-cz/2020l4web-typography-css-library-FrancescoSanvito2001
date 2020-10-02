@@ -1,9 +1,7 @@
 # Typography CSS library
 **Author:** *Francesco Sanvito*
-## Demo site
-    
 ## Dependecies
-I don't have the slightest idea of what the goddamn fuck I should write down here...   :)
+I don't have the slightest idea of what the goddamn flippity fuck I should write down here...   :)
 ## Implementation
 
 ```
@@ -20,5 +18,8 @@ For images use:
 ```
 
 ## Components
+
+LEGO brick-red (2x6) 10x
+
 ### First
 ### Second

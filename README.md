@@ -11,12 +11,14 @@
 ```
 
 ## Usage
-    For images use:
-    ```
-    <div>
-        <img src="">
-    </div>
-    ```
+For images use:
+    
+```
+<div>
+    <img src="">
+</div>
+```
+
 ## Components
 ### First
 ### Second

@@ -19,8 +19,8 @@ For images use:
 
 ## Components
 
-LEGO brick-red (2x3) 10x
-<img src="https://www.librick.com/upload/Parts/p_brick00612_5_1.jpg">
+LEGO StarWars™ Death Star™ 75159
+<img src="https://lego.brickinstructions.com/75000/75159/001.jpg">
 
 ### First
 ### Second

@@ -19,7 +19,8 @@ For images use:
 
 ## Components
 
-LEGO brick-red (2x6) 10x
+LEGO brick-red (2x3) 10x
+<img src="https://www.librick.com/upload/Parts/p_brick00612_5_1.jpg">
 
 ### First
 ### Second

@@ -1,9 +1,9 @@
 # Typography CSS library
-**Author:** *First Lastname*
+**Author:** *Francesco Sanvito*
 ## Demo site
-Link to **[demo](http://www.github.io)** site for preview.
+<link rel="stylesheet" href="./typography.css">
 ## Dependecies
-...
+....
 ## Implementation
 ...
 ## Usage

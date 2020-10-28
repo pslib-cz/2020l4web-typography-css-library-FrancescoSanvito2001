@@ -1,26 +1,45 @@
 # Typography CSS library
 **Author:** *Francesco Sanvito*
-## Dependecies
-I don't have the slightest idea of what the goddamn flippity fuck I should write down here...   :)
+## Demo site
+This is a [Demo]()
 ## Implementation
 
 ```
-<link rel="stylesheet" href="./typography.css">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./typography.css">
+    <link rel="stylesheet" href="./style.css">
+    <title>Typography</title>
+</head>
 ```
 
 ## Usage
-For images use:
-    
-```
-<div class="img">
-    <img src="">
-</div>
-```
+The **typography** stylesheet changes:
+-h1,h2,h3,h4.h5,h6
+-p
+-figcaption
+-ul,ol
+-dd,dt
+
+The **style** stylesheet is just fos paddings, margin, flexes and overall styling of the website **NOT OF THE TYPOGRAPHY**
 
 ## Components
-
-LEGO StarWars™ Death Star™ 75159
-<img src="https://lego.brickinstructions.com/75000/75159/001.jpg">
-
-### First
-### Second
+Body
+```
+<body>
+    <section class="typo">
+        <header></header>
+        <main></main>
+        <footer></footer>
+</body>
+```
+For images use:
+```
+<figure>
+    <img src="_________" alt="__________">
+    <figcaption>__________________</figcaption>
+</figure>
+```

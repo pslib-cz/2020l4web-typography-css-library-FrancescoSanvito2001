@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "Signika";
+    font-weight: 400;
+    font-style: normal;
+    src: url(./fonts/Signika-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: "SignikaBold";
+    font-weight: 700;
+    font-style: bold;
+    src: url(./fonts/static/Signika-Bold.ttf);
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: "SignikaBold";
+}
+
+h1 {
+    font-size: 5em;
+}
+h2 {
+    font-size: 3em;
+}
+h3 {
+    font-size: 2.5em;
+}
+h4 {
+    font-size: 2em;
+}
+h5 {
+    font-size: 1.5em;
+}
+h6 {
+    font-size: 1.25em;
+}
+
+p, figcaption, ul, ol, dd, dt {
+    font-family: "Signika";
+    font-size: 1.2em;
+}

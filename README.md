@@ -24,7 +24,7 @@ The **typography** stylesheet changes:
 - ul,ol
 - dd,dt
 
-The **style** stylesheet is just fos paddings, margin, flexes and overall styling of the website **NOT OF THE TYPOGRAPHY**
+The **style** stylesheet is just fos paddings, margin, flexes and overall styling of the website, **NOT OF THE TYPOGRAPHY**
 
 ## Components
 Body

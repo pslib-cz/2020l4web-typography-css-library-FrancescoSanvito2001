@@ -18,11 +18,11 @@ This is a [Demo]()
 
 ## Usage
 The **typography** stylesheet changes:
--h1,h2,h3,h4.h5,h6
--p
--figcaption
--ul,ol
--dd,dt
+- h1,h2,h3,h4.h5,h6
+- p
+- figcaption
+- ul,ol
+- dd,dt
 
 The **style** stylesheet is just fos paddings, margin, flexes and overall styling of the website **NOT OF THE TYPOGRAPHY**
 
